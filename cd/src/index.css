@@ -1,0 +1,10 @@
+.blog--container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.post--title {
+  display: flex;
+  justify-content: center;
+}
